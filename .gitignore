@@ -5,5 +5,5 @@ java-todo.iml
 mvnw
 mvnw.cmd
 src/main/main.iml
-src/main/java/com/example/javatodo/JavaTodoApplication.java
+src/main/java/com/example/javatodo
 src/test/test.iml
