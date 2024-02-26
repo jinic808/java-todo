@@ -4,3 +4,6 @@ HELP.md
 java-todo.iml
 mvnw
 mvnw.cmd
+src/main/main.iml
+src/main/java/com/example/javatodo/JavaTodoApplication.java
+src/test/test.iml
